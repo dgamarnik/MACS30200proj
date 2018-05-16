@@ -1,0 +1,672 @@
+,Country,Region,Year,Month,seces_word,self-det_word,tot_words,Tax_Auto,Referendum,Ruling_cat,Mas_speech,Budget ,Year
+,Spain,Catalonia,1999,Jan,0,0,0,0,0,0,0,11.48797,1999
+,Spain,Catalonia,1999,Feb,0,0,0,0,0,0,0,11.48797,1999
+,Spain,Catalonia,1999,Mar,1,1,2,0,0,0,0,11.48797,1999
+,Spain,Catalonia,1999,Apr,0,1,1,0,0,0,0,11.48797,1999
+,Spain,Catalonia,1999,May,0,0,0,0,0,0,0,11.48797,1999
+,Spain,Catalonia,1999,Jun,0,1,1,0,0,0,0,11.48797,1999
+,Spain,Catalonia,1999,Jul,0,0,0,0,0,0,0,11.48797,1999
+,Spain,Catalonia,1999,Aug,0,0,0,0,0,0,0,11.48797,1999
+,Spain,Catalonia,1999,Sep,0,0,0,0,0,0,0,11.48797,1999
+,Spain,Catalonia,1999,Oct,0,0,0,0,0,0,0,11.48797,1999
+,Spain,Catalonia,1999,Nov,0,1,1,0,0,0,0,11.48797,1999
+,Spain,Catalonia,1999,Dec,1,0,1,0,0,0,0,11.48797,1999
+,Spain,Catalonia,2000,Jan,0,0,0,0,0,0,0,12.48007,2000
+,Spain,Catalonia,2000,Feb,0,0,0,0,0,0,0,12.48007,2000
+,Spain,Catalonia,2000,Mar,0,0,0,0,0,0,0,12.48007,2000
+,Spain,Catalonia,2000,Apr,0,1,1,0,0,0,0,12.48007,2000
+,Spain,Catalonia,2000,May,0,0,0,0,0,0,0,12.48007,2000
+,Spain,Catalonia,2000,Jun,0,0,0,0,0,0,0,12.48007,2000
+,Spain,Catalonia,2000,Jul,0,0,0,0,0,0,0,12.48007,2000
+,Spain,Catalonia,2000,Aug,0,0,0,0,0,0,0,12.48007,2000
+,Spain,Catalonia,2000,Sep,0,0,0,0,0,0,0,12.48007,2000
+,Spain,Catalonia,2000,Oct,0,3,3,0,0,0,0,12.48007,2000
+,Spain,Catalonia,2000,Nov,0,0,0,0,0,0,0,12.48007,2000
+,Spain,Catalonia,2000,Dec,0,3,3,0,0,0,0,12.48007,2000
+,Spain,Catalonia,2001,Jan,0,0,0,0,0,0,0,13.39521,2001
+,Spain,Catalonia,2001,Feb,0,1,1,0,0,0,0,13.39521,2001
+,Spain,Catalonia,2001,Mar,0,0,0,0,0,0,0,13.39521,2001
+,Spain,Catalonia,2001,Apr,0,0,0,0,0,0,0,13.39521,2001
+,Spain,Catalonia,2001,May,0,0,0,0,0,0,0,13.39521,2001
+,Spain,Catalonia,2001,Jun,0,0,0,0,0,0,0,13.39521,2001
+,Spain,Catalonia,2001,Jul,0,0,0,0,0,0,0,13.39521,2001
+,Spain,Catalonia,2001,Aug,0,0,0,0,0,0,0,13.39521,2001
+,Spain,Catalonia,2001,Sep,0,0,0,0,0,0,0,13.39521,2001
+,Spain,Catalonia,2001,Oct,0,8,8,0,0,0,0,13.39521,2001
+,Spain,Catalonia,2001,Nov,0,0,0,0,0,0,0,13.39521,2001
+,Spain,Catalonia,2001,Dec,0,0,0,0,0,0,0,13.39521,2001
+,Spain,Catalonia,2002,Jan,0,0,0,0,0,0,0,14.84203,2002
+,Spain,Catalonia,2002,Feb,0,0,0,0,0,0,0,14.84203,2002
+,Spain,Catalonia,2002,Mar,0,1,1,0,0,0,0,14.84203,2002
+,Spain,Catalonia,2002,Apr,0,3,3,0,0,0,0,14.84203,2002
+,Spain,Catalonia,2002,May,0,2,2,0,0,0,0,14.84203,2002
+,Spain,Catalonia,2002,Jun,0,3,3,0,0,0,0,14.84203,2002
+,Spain,Catalonia,2002,Jul,0,0,0,0,0,0,0,14.84203,2002
+,Spain,Catalonia,2002,Aug,0,0,0,0,0,0,0,14.84203,2002
+,Spain,Catalonia,2002,Sep,0,0,0,0,0,0,0,14.84203,2002
+,Spain,Catalonia,2002,Oct,0,3,3,0,0,0,0,14.84203,2002
+,Spain,Catalonia,2002,Nov,0,1,1,0,0,0,0,14.84203,2002
+,Spain,Catalonia,2002,Dec,0,5,5,0,0,0,0,14.84203,2002
+,Spain,Catalonia,2003,Jan,0,0,0,0,0,0,0,16.08139,2003
+,Spain,Catalonia,2003,Feb,0,1,1,0,0,0,0,16.08139,2003
+,Spain,Catalonia,2003,Mar,0,0,0,0,0,0,0,16.08139,2003
+,Spain,Catalonia,2003,Apr,0,0,0,0,0,0,0,16.08139,2003
+,Spain,Catalonia,2003,May,0,0,0,0,0,0,0,16.08139,2003
+,Spain,Catalonia,2003,Jun,1,1,2,0,0,0,0,16.08139,2003
+,Spain,Catalonia,2003,Jul,0,0,0,0,0,0,0,16.08139,2003
+,Spain,Catalonia,2003,Aug,0,0,0,0,0,0,0,16.08139,2003
+,Spain,Catalonia,2003,Sep,0,0,0,0,0,0,0,16.08139,2003
+,Spain,Catalonia,2003,Oct,0,0,0,0,0,0,0,16.08139,2003
+,Spain,Catalonia,2003,Nov,0,0,0,0,0,0,0,16.08139,2003
+,Spain,Catalonia,2003,Dec,0,0,0,0,0,0,0,18.71082,2003
+,Spain,Catalonia,2004,Jan,0,0,0,0,0,0,0,18.71082,2004
+,Spain,Catalonia,2004,Feb,0,0,0,0,0,0,0,18.71082,2004
+,Spain,Catalonia,2004,Mar,0,1,1,0,0,0,0,18.71082,2004
+,Spain,Catalonia,2004,Apr,1,0,1,0,0,0,0,18.71082,2004
+,Spain,Catalonia,2004,May,0,0,0,0,0,0,0,18.71082,2004
+,Spain,Catalonia,2004,Jun,0,1,1,0,0,0,0,18.71082,2004
+,Spain,Catalonia,2004,Jul,0,0,0,0,0,0,0,18.71082,2004
+,Spain,Catalonia,2004,Aug,0,0,0,0,0,0,0,18.71082,2004
+,Spain,Catalonia,2004,Sep,0,2,2,0,0,0,0,18.71082,2004
+,Spain,Catalonia,2004,Oct,1,0,1,0,0,0,0,18.71082,2004
+,Spain,Catalonia,2004,Nov,1,1,2,0,0,0,0,18.71082,2004
+,Spain,Catalonia,2004,Dec,1,0,1,0,0,0,0,18.71082,2004
+,Spain,Catalonia,2005,Jan,0,0,0,0,0,0,0,21.51687,2005
+,Spain,Catalonia,2005,Feb,0,0,0,0,0,0,0,21.51687,2005
+,Spain,Catalonia,2005,Mar,0,0,0,0,0,0,0,21.51687,2005
+,Spain,Catalonia,2005,Apr,0,0,0,0,0,0,0,21.51687,2005
+,Spain,Catalonia,2005,May,0,0,0,0,0,0,0,21.51687,2005
+,Spain,Catalonia,2005,Jun,0,1,1,0,0,0,0,21.51687,2005
+,Spain,Catalonia,2005,Jul,0,0,0,0,0,0,0,21.51687,2005
+,Spain,Catalonia,2005,Aug,0,0,0,0,0,0,0,21.51687,2005
+,Spain,Catalonia,2005,Sep,0,12,12,0,0,0,0,21.51687,2005
+,Spain,Catalonia,2005,Oct,0,0,0,0,0,0,0,21.51687,2005
+,Spain,Catalonia,2005,Nov,0,0,0,0,0,0,0,21.51687,2005
+,Spain,Catalonia,2005,Dec,0,0,0,0,0,0,0,21.51687,2005
+,Spain,Catalonia,2006,Jan,0,0,0,0,0,0,0,23.92446,2006
+,Spain,Catalonia,2006,Feb,0,0,0,0,0,0,0,23.92446,2006
+,Spain,Catalonia,2006,Mar,0,0,0,0,0,0,0,23.92446,2006
+,Spain,Catalonia,2006,Apr,0,0,0,0,0,0,0,23.92446,2006
+,Spain,Catalonia,2006,May,0,1,1,0,0,0,0,23.92446,2006
+,Spain,Catalonia,2006,Jun,0,0,0,0,0,0,0,23.92446,2006
+,Spain,Catalonia,2006,Jul,0,0,0,0,0,0,0,23.92446,2006
+,Spain,Catalonia,2006,Aug,0,0,0,0,0,0,0,23.92446,2006
+,Spain,Catalonia,2006,Sep,0,0,0,0,0,0,0,23.92446,2006
+,Spain,Catalonia,2006,Oct,0,0,0,0,0,0,0,23.92446,2006
+,Spain,Catalonia,2006,Nov,0,0,0,0,0,0,0,23.92446,2006
+,Spain,Catalonia,2006,Dec,0,0,0,0,0,0,0,23.92446,2006
+,Spain,Catalonia,2007,Jan,0,0,0,0,0,0,0,26.68464,2007
+,Spain,Catalonia,2007,Feb,0,0,0,0,0,0,0,26.68464,2007
+,Spain,Catalonia,2007,Mar,0,57,57,0,0,0,0,26.68464,2007
+,Spain,Catalonia,2007,Apr,0,0,0,0,0,0,0,26.68464,2007
+,Spain,Catalonia,2007,May,0,0,0,0,0,0,0,26.68464,2007
+,Spain,Catalonia,2007,Jun,0,0,0,0,0,0,0,26.68464,2007
+,Spain,Catalonia,2007,Jul,0,0,0,0,0,0,0,26.68464,2007
+,Spain,Catalonia,2007,Aug,0,0,0,0,0,0,0,26.68464,2007
+,Spain,Catalonia,2007,Sep,1,0,1,0,0,0,0,26.68464,2007
+,Spain,Catalonia,2007,Oct,0,1,1,0,0,0,0,26.68464,2007
+,Spain,Catalonia,2007,Nov,0,1,1,0,0,0,0,26.68464,2007
+,Spain,Catalonia,2007,Dec,0,2,2,0,0,0,0,26.68464,2007
+,Spain,Catalonia,2008,Jan,0,0,0,0,0,0,0,28.24334,2008
+,Spain,Catalonia,2008,Feb,1,2,3,0,0,0,0,28.24334,2008
+,Spain,Catalonia,2008,Mar,0,0,0,0,0,0,0,28.24334,2008
+,Spain,Catalonia,2008,Apr,0,1,1,0,0,0,0,28.24334,2008
+,Spain,Catalonia,2008,May,0,2,2,0,0,0,0,28.24334,2008
+,Spain,Catalonia,2008,Jun,0,0,0,0,0,0,0,28.24334,2008
+,Spain,Catalonia,2008,Jul,0,0,0,0,0,0,0,28.24334,2008
+,Spain,Catalonia,2008,Aug,0,0,0,0,0,0,0,28.24334,2008
+,Spain,Catalonia,2008,Sep,0,0,0,0,0,0,0,28.24334,2008
+,Spain,Catalonia,2008,Oct,0,0,0,0,0,0,0,28.24334,2008
+,Spain,Catalonia,2008,Nov,0,0,0,0,0,0,0,28.24334,2008
+,Spain,Catalonia,2008,Dec,0,0,0,0,0,0,0,28.24334,2008
+,Spain,Catalonia,2009,Jan,0,0,0,0,0,0,0,29.73076,2009
+,Spain,Catalonia,2009,Feb,0,0,0,0,0,0,0,29.73076,2009
+,Spain,Catalonia,2009,Mar,0,0,0,0,0,0,0,29.73076,2009
+,Spain,Catalonia,2009,Apr,0,0,0,0,0,0,0,29.73076,2009
+,Spain,Catalonia,2009,May,0,0,0,0,0,0,0,29.73076,2009
+,Spain,Catalonia,2009,Jun,0,8,8,0,0,0,0,29.73076,2009
+,Spain,Catalonia,2009,Jul,0,1,1,0,0,0,0,29.73076,2009
+,Spain,Catalonia,2009,Aug,0,0,0,0,0,0,0,29.73076,2009
+,Spain,Catalonia,2009,Sep,0,1,1,0,0,0,0,29.73076,2009
+,Spain,Catalonia,2009,Oct,0,1,1,0,0,0,0,29.73076,2009
+,Spain,Catalonia,2009,Nov,0,0,0,0,0,0,0,29.73076,2009
+,Spain,Catalonia,2009,Dec,0,1,1,0,0,0,0,29.73076,2009
+,Spain,Catalonia,2010,Jan,1,0,1,0,0,0,0,32.51873,2010
+,Spain,Catalonia,2010,Feb,0,0,0,0,0,0,0,32.51873,2010
+,Spain,Catalonia,2010,Mar,0,10,10,0,0,0,0,32.51873,2010
+,Spain,Catalonia,2010,Apr,1,0,1,0,0,0,0,32.51873,2010
+,Spain,Catalonia,2010,May,0,0,0,0,0,0,0,32.51873,2010
+,Spain,Catalonia,2010,Jun,0,0,0,0,0,1,0,32.51873,2010
+,Spain,Catalonia,2010,Jul,2,8,10,0,0,1,0,32.51873,2010
+,Spain,Catalonia,2010,Aug,0,0,0,0,0,1,0,32.51873,2010
+,Spain,Catalonia,2010,Sep,1,0,1,0,0,1,0,32.51873,2010
+,Spain,Catalonia,2010,Oct,0,0,0,0,0,1,0,32.51873,2010
+,Spain,Catalonia,2010,Nov,0,0,0,0,0,1,0,32.51873,2010
+,Spain,Catalonia,2010,Dec,0,3,3,0,0,1,0,32.51873,2010
+,Spain,Catalonia,2011,Jan,0,0,0,0,0,1,0,32.63005,2011
+,Spain,Catalonia,2011,Feb,1,1,2,0,0,1,0,32.63005,2011
+,Spain,Catalonia,2011,Mar,0,31,31,0,0,1,0,32.63005,2011
+,Spain,Catalonia,2011,Apr,3,9,12,0,0,1,0,32.63005,2011
+,Spain,Catalonia,2011,May,0,0,0,0,0,1,0,32.63005,2011
+,Spain,Catalonia,2011,Jun,0,1,1,0,0,1,0,32.63005,2011
+,Spain,Catalonia,2011,Jul,0,0,0,0,0,1,0,32.63005,2011
+,Spain,Catalonia,2011,Aug,0,0,0,0,0,1,0,32.63005,2011
+,Spain,Catalonia,2011,Sep,0,3,3,0,0,1,0,32.63005,2011
+,Spain,Catalonia,2011,Oct,0,0,0,0,0,1,0,32.63005,2011
+,Spain,Catalonia,2011,Nov,0,0,0,0,0,1,0,32.63005,2011
+,Spain,Catalonia,2011,Dec,0,0,0,0,0,1,0,32.63005,2011
+,Spain,Catalonia,2012,Jan,0,0,0,0,0,1,0,29.72734,2012
+,Spain,Catalonia,2012,Feb,0,9,9,0,0,1,0,29.72734,2012
+,Spain,Catalonia,2012,Mar,0,4,4,0,0,1,0,29.72734,2012
+,Spain,Catalonia,2012,Apr,2,36,38,0,0,1,0,29.72734,2012
+,Spain,Catalonia,2012,May,0,1,1,0,0,1,0,29.72734,2012
+,Spain,Catalonia,2012,Jun,0,1,1,0,0,1,0,29.72734,2012
+,Spain,Catalonia,2012,Jul,0,1,1,0,0,1,0,29.72734,2012
+,Spain,Catalonia,2012,Aug,0,0,0,0,0,1,0,29.72734,2012
+,Spain,Catalonia,2012,Sep,0,23,23,0,0,1,1,29.72734,2012
+,Spain,Catalonia,2012,Oct,0,0,0,0,0,1,1,29.72734,2012
+,Spain,Catalonia,2012,Nov,0,0,0,0,0,1,1,29.72734,2012
+,Spain,Catalonia,2012,Dec,0,20,20,0,0,1,1,29.72734,2012
+,Spain,Catalonia,2013,Jan,4,7,11,0,0,1,1,27.127,2013
+,Spain,Catalonia,2013,Feb,1,4,5,0,0,1,1,27.127,2013
+,Spain,Catalonia,2013,Mar,4,6,10,0,0,1,1,27.127,2013
+,Spain,Catalonia,2013,Apr,3,2,5,0,0,1,1,27.127,2013
+,Spain,Catalonia,2013,May,8,11,19,0,0,1,1,27.127,2013
+,Spain,Catalonia,2013,Jun,1,1,2,0,0,1,1,27.127,2013
+,Spain,Catalonia,2013,Jul,4,0,4,0,0,1,1,27.127,2013
+,Spain,Catalonia,2013,Aug,0,0,0,0,0,1,1,27.127,2013
+,Spain,Catalonia,2013,Sep,1,11,12,0,0,1,1,27.127,2013
+,Spain,Catalonia,2013,Oct,10,6,16,0,0,1,1,27.127,2013
+,Spain,Catalonia,2013,Nov,6,26,32,0,0,1,1,27.127,2013
+,Spain,Catalonia,2013,Dec,4,8,12,0,0,1,1,27.127,2013
+,Spain,Catalonia,2014,Jan,3,24,27,0,0,1,1,31.86207,2014
+,Spain,Catalonia,2014,Feb,5,3,8,0,0,1,1,31.86207,2014
+,Spain,Catalonia,2014,Mar,2,2,4,0,0,1,1,31.86207,2014
+,Spain,Catalonia,2014,Apr,7,3,10,0,0,1,1,31.86207,2014
+,Spain,Catalonia,2014,May,4,3,7,0,0,1,1,31.86207,2014
+,Spain,Catalonia,2014,Jun,4,4,8,0,0,1,1,31.86207,2014
+,Spain,Catalonia,2014,Jul,2,4,6,0,0,1,1,31.86207,2014
+,Spain,Catalonia,2014,Aug,4,0,4,0,0,1,1,31.86207,2014
+,Spain,Catalonia,2014,Sep,0,4,4,0,0,1,1,31.86207,2014
+,Spain,Catalonia,2014,Oct,6,5,11,0,0,1,1,31.86207,2014
+,Spain,Catalonia,2014,Nov,4,9,13,0,1,1,1,31.86207,2014
+,Spain,Catalonia,2014,Dec,0,1,1,0,0,1,1,31.86207,2014
+,Spain,Catalonia,2015,Jan,1,1,2,0,0,1,1,32.48309,2015
+,Spain,Catalonia,2015,Feb,6,1,7,0,0,1,1,32.48309,2015
+,Spain,Catalonia,2015,Mar,4,3,7,0,0,1,1,32.48309,2015
+,Spain,Catalonia,2015,Apr,1,0,1,0,0,1,1,32.48309,2015
+,Spain,Catalonia,2015,May,0,0,0,0,0,1,1,32.48309,2015
+,Spain,Catalonia,2015,Jun,2,1,3,0,0,1,1,32.48309,2015
+,Spain,Catalonia,2015,Jul,2,10,12,0,0,1,1,32.48309,2015
+,Spain,Catalonia,2015,Aug,0,0,0,0,0,1,1,32.48309,2015
+,Spain,Catalonia,2015,Sep,0,0,0,0,0,1,1,32.48309,2015
+,Spain,Catalonia,2015,Oct,0,0,0,0,0,1,1,32.48309,2015
+,Spain,Catalonia,2015,Nov,5,13,18,0,0,1,1,32.48309,2015
+,Spain,Catalonia,2015,Dec,0,0,0,0,0,1,1,32.48309,2015
+,Spain,Catalonia,2016,Jan,5,0,5,0,0,1,1,35.73109,2016
+,Spain,Catalonia,2016,Feb,1,0,1,0,0,1,1,35.73109,2016
+,Spain,Catalonia,2016,Mar,7,3,10,0,0,1,1,35.73109,2016
+,Spain,Catalonia,2016,Apr,6,1,7,0,0,1,1,35.73109,2016
+,Spain,Catalonia,2016,May,3,1,4,0,0,1,1,35.73109,2016
+,Spain,Catalonia,2016,Jun,0,2,2,0,0,1,1,35.73109,2016
+,Spain,Catalonia,2016,Jul,1,4,5,0,0,1,1,35.73109,2016
+,Spain,Catalonia,2016,Aug,0,0,0,0,0,1,1,35.73109,2016
+,Spain,Catalonia,2016,Sep,0,9,9,0,0,1,1,35.73109,2016
+,Spain,Catalonia,2016,Oct,2,9,11,0,0,1,1,35.73109,2016
+,Spain,Catalonia,2016,Nov,0,1,1,0,0,1,1,35.73109,2016
+,Spain,Catalonia,2016,Dec,17,21,38,0,0,1,1,35.73109,2016
+,Spain,Catalonia,2017,Jan,1,5,6,0,0,1,1,34.02971,2017
+,Spain,Catalonia,2017,Feb,28,4,32,0,0,1,1,34.02971,2017
+,Spain,Catalonia,2017,Mar,4,8,12,0,0,1,1,34.02971,2017
+,Spain,Catalonia,2017,Apr,3,17,20,0,0,1,1,34.02971,2017
+,Spain,Catalonia,2017,May,0,12,12,0,0,1,1,34.02971,2017
+,Spain,Catalonia,2017,Jun,7,20,27,0,0,1,1,34.02971,2017
+,Spain,Catalonia,2017,Jul,6,17,23,0,0,1,1,34.02971,2017
+,Spain,Catalonia,2017,Aug,0,0,0,0,0,1,1,34.02971,2017
+,Spain,Catalonia,2017,Sep,9,64,73,0,0,1,1,34.02971,2017
+,Spain,Catalonia,2017,Oct,2,16,18,0,1,1,1,34.02971,2017
+,Spain,Catalonia,2017,Nov,0,0,0,0,0,1,1,34.02971,2017
+,Spain,Catalonia,2017,Dec,0,0,0,0,0,1,1,34.02971,2017
+,Spain,Basque,1999,Jan,,,,,,,,,1999
+,Spain,Basque,1999,Feb,,,,,,,,,1999
+,Spain,Basque,1999,Mar,,,,,,,,,1999
+,Spain,Basque,1999,Apr,,,,,,,,,1999
+,Spain,Basque,1999,May,,,,,,,,,1999
+,Spain,Basque,1999,Jun,,,,,,,,,1999
+,Spain,Basque,1999,Jul,,,,,,,,,1999
+,Spain,Basque,1999,Aug,,,,,,,,,1999
+,Spain,Basque,1999,Sep,,,,,,,,,1999
+,Spain,Basque,1999,Oct,,,,,,,,,1999
+,Spain,Basque,1999,Nov,,,,,,,,,1999
+,Spain,Basque,1999,Dec,,,,,,,,,1999
+,Spain,Basque,2000,Jan,,,,,,,,,2000
+,Spain,Basque,2000,Feb,,,,,,,,,2000
+,Spain,Basque,2000,Mar,,,,,,,,,2000
+,Spain,Basque,2000,Apr,,,,,,,,,2000
+,Spain,Basque,2000,May,,,,,,,,,2000
+,Spain,Basque,2000,Jun,,,,,,,,,2000
+,Spain,Basque,2000,Jul,,,,,,,,,2000
+,Spain,Basque,2000,Aug,,,,,,,,,2000
+,Spain,Basque,2000,Sep,,,,,,,,,2000
+,Spain,Basque,2000,Oct,,,,,,,,,2000
+,Spain,Basque,2000,Nov,,,,,,,,,2000
+,Spain,Basque,2000,Dec,,,,,,,,,2000
+,Spain,Basque,2001,Jan,,,,,,,,,2001
+,Spain,Basque,2001,Feb,,,,,,,,,2001
+,Spain,Basque,2001,Mar,,,,,,,,,2001
+,Spain,Basque,2001,Apr,,,,,,,,,2001
+,Spain,Basque,2001,May,,,,,,,,,2001
+,Spain,Basque,2001,Jun,,,,,,,,,2001
+,Spain,Basque,2001,Jul,,,,,,,,,2001
+,Spain,Basque,2001,Aug,,,,,,,,,2001
+,Spain,Basque,2001,Sep,,,,,,,,,2001
+,Spain,Basque,2001,Oct,,,,,,,,,2001
+,Spain,Basque,2001,Nov,,,,,,,,,2001
+,Spain,Basque,2001,Dec,,,,,,,,,2001
+,Spain,Basque,2002,Jan,,,,,,,,,2002
+,Spain,Basque,2002,Feb,,,,,,,,,2002
+,Spain,Basque,2002,Mar,,,,,,,,,2002
+,Spain,Basque,2002,Apr,,,,,,,,,2002
+,Spain,Basque,2002,May,,,,,,,,,2002
+,Spain,Basque,2002,Jun,,,,,,,,,2002
+,Spain,Basque,2002,Jul,,,,,,,,,2002
+,Spain,Basque,2002,Aug,,,,,,,,,2002
+,Spain,Basque,2002,Sep,,,,,,,,,2002
+,Spain,Basque,2002,Oct,,,,,,,,,2002
+,Spain,Basque,2002,Nov,,,,,,,,,2002
+,Spain,Basque,2002,Dec,,,,,,,,,2002
+,Spain,Basque,2003,Jan,,,,,,,,,2003
+,Spain,Basque,2003,Feb,,,,,,,,,2003
+,Spain,Basque,2003,Mar,,,,,,,,,2003
+,Spain,Basque,2003,Apr,,,,,,,,,2003
+,Spain,Basque,2003,May,,,,,,,,,2003
+,Spain,Basque,2003,Jun,,,,,,,,,2003
+,Spain,Basque,2003,Jul,,,,,,,,,2003
+,Spain,Basque,2003,Aug,,,,,,,,,2003
+,Spain,Basque,2003,Sep,,,,,,,,,2003
+,Spain,Basque,2003,Oct,,,,,,,,,2003
+,Spain,Basque,2003,Nov,,,,,,,,,2003
+,Spain,Basque,2003,Dec,,,,,,,,,2003
+,Spain,Basque,2004,Jan,,,,,,,,,2004
+,Spain,Basque,2004,Feb,,,,,,,,,2004
+,Spain,Basque,2004,Mar,,,,,,,,,2004
+,Spain,Basque,2004,Apr,,,,,,,,,2004
+,Spain,Basque,2004,May,,,,,,,,,2004
+,Spain,Basque,2004,Jun,,,,,,,,,2004
+,Spain,Basque,2004,Jul,,,,,,,,,2004
+,Spain,Basque,2004,Aug,,,,,,,,,2004
+,Spain,Basque,2004,Sep,,,,,,,,,2004
+,Spain,Basque,2004,Oct,,,,,,,,,2004
+,Spain,Basque,2004,Nov,,,,,,,,,2004
+,Spain,Basque,2004,Dec,,,,,,,,,2004
+,Spain,Basque,2005,Jan,,,,,,,,,2005
+,Spain,Basque,2005,Feb,,,,,,,,,2005
+,Spain,Basque,2005,Mar,,,,,,,,,2005
+,Spain,Basque,2005,Apr,,,,,,,,,2005
+,Spain,Basque,2005,May,,,,,,,,,2005
+,Spain,Basque,2005,Jun,,,,,,,,,2005
+,Spain,Basque,2005,Jul,,,,,,,,,2005
+,Spain,Basque,2005,Aug,,,,,,,,,2005
+,Spain,Basque,2005,Sep,,,,,,,,,2005
+,Spain,Basque,2005,Oct,,,,,,,,,2005
+,Spain,Basque,2005,Nov,,,,,,,,,2005
+,Spain,Basque,2005,Dec,,,,,,,,,2005
+,Spain,Basque,2006,Jan,,,,,,,,,2006
+,Spain,Basque,2006,Feb,,,,,,,,,2006
+,Spain,Basque,2006,Mar,,,,,,,,,2006
+,Spain,Basque,2006,Apr,,,,,,,,,2006
+,Spain,Basque,2006,May,,,,,,,,,2006
+,Spain,Basque,2006,Jun,,,,,,,,,2006
+,Spain,Basque,2006,Jul,,,,,,,,,2006
+,Spain,Basque,2006,Aug,,,,,,,,,2006
+,Spain,Basque,2006,Sep,,,,,,,,,2006
+,Spain,Basque,2006,Oct,,,,,,,,,2006
+,Spain,Basque,2006,Nov,,,,,,,,,2006
+,Spain,Basque,2006,Dec,,,,,,,,,2006
+,Spain,Basque,2007,Jan,,,,,,,,,2007
+,Spain,Basque,2007,Feb,,,,,,,,,2007
+,Spain,Basque,2007,Mar,,,,,,,,,2007
+,Spain,Basque,2007,Apr,,,,,,,,,2007
+,Spain,Basque,2007,May,,,,,,,,,2007
+,Spain,Basque,2007,Jun,,,,,,,,,2007
+,Spain,Basque,2007,Jul,,,,,,,,,2007
+,Spain,Basque,2007,Aug,,,,,,,,,2007
+,Spain,Basque,2007,Sep,,,,,,,,,2007
+,Spain,Basque,2007,Oct,,,,,,,,,2007
+,Spain,Basque,2007,Nov,,,,,,,,,2007
+,Spain,Basque,2007,Dec,,,,,,,,,2007
+,Spain,Basque,2008,Jan,,,,,,,,,2008
+,Spain,Basque,2008,Feb,,,,,,,,,2008
+,Spain,Basque,2008,Mar,,,,,,,,,2008
+,Spain,Basque,2008,Apr,,,,,,,,,2008
+,Spain,Basque,2008,May,,,,,,,,,2008
+,Spain,Basque,2008,Jun,,,,,,,,,2008
+,Spain,Basque,2008,Jul,,,,,,,,,2008
+,Spain,Basque,2008,Aug,,,,,,,,,2008
+,Spain,Basque,2008,Sep,,,,,,,,,2008
+,Spain,Basque,2008,Oct,,,,,,,,,2008
+,Spain,Basque,2008,Nov,,,,,,,,,2008
+,Spain,Basque,2008,Dec,,,,,,,,,2008
+,Spain,Basque,2009,Jan,,,,,,,,,2009
+,Spain,Basque,2009,Feb,,,,,,,,,2009
+,Spain,Basque,2009,Mar,,,,,,,,,2009
+,Spain,Basque,2009,Apr,,,,,,,,,2009
+,Spain,Basque,2009,May,,,,,,,,,2009
+,Spain,Basque,2009,Jun,,,,,,,,,2009
+,Spain,Basque,2009,Jul,,,,,,,,,2009
+,Spain,Basque,2009,Aug,,,,,,,,,2009
+,Spain,Basque,2009,Sep,,,,,,,,,2009
+,Spain,Basque,2009,Oct,,,,,,,,,2009
+,Spain,Basque,2009,Nov,,,,,,,,,2009
+,Spain,Basque,2009,Dec,,,,,,,,,2009
+,Spain,Basque,2010,Jan,,,,,,,,,2010
+,Spain,Basque,2010,Feb,,,,,,,,,2010
+,Spain,Basque,2010,Mar,,,,,,,,,2010
+,Spain,Basque,2010,Apr,,,,,,,,,2010
+,Spain,Basque,2010,May,,,,,,,,,2010
+,Spain,Basque,2010,Jun,,,,,,,,,2010
+,Spain,Basque,2010,Jul,,,,,,,,,2010
+,Spain,Basque,2010,Aug,,,,,,,,,2010
+,Spain,Basque,2010,Sep,,,,,,,,,2010
+,Spain,Basque,2010,Oct,,,,,,,,,2010
+,Spain,Basque,2010,Nov,,,,,,,,,2010
+,Spain,Basque,2010,Dec,,,,,,,,,2010
+,Spain,Basque,2011,Jan,,,,,,,,,2011
+,Spain,Basque,2011,Feb,,,,,,,,,2011
+,Spain,Basque,2011,Mar,,,,,,,,,2011
+,Spain,Basque,2011,Apr,,,,,,,,,2011
+,Spain,Basque,2011,May,,,,,,,,,2011
+,Spain,Basque,2011,Jun,,,,,,,,,2011
+,Spain,Basque,2011,Jul,,,,,,,,,2011
+,Spain,Basque,2011,Aug,,,,,,,,,2011
+,Spain,Basque,2011,Sep,,,,,,,,,2011
+,Spain,Basque,2011,Oct,,,,,,,,,2011
+,Spain,Basque,2011,Nov,,,,,,,,,2011
+,Spain,Basque,2011,Dec,,,,,,,,,2011
+,Spain,Basque,2012,Jan,,,,,,,,,2012
+,Spain,Basque,2012,Feb,,,,,,,,,2012
+,Spain,Basque,2012,Mar,,,,,,,,,2012
+,Spain,Basque,2012,Apr,,,,,,,,,2012
+,Spain,Basque,2012,May,,,,,,,,,2012
+,Spain,Basque,2012,Jun,,,,,,,,,2012
+,Spain,Basque,2012,Jul,,,,,,,,,2012
+,Spain,Basque,2012,Aug,,,,,,,,,2012
+,Spain,Basque,2012,Sep,,,,,,,,,2012
+,Spain,Basque,2012,Oct,,,,,,,,,2012
+,Spain,Basque,2012,Nov,,,,,,,,,2012
+,Spain,Basque,2012,Dec,,,,,,,,,2012
+,Spain,Basque,2013,Jan,,,,,,,,,2013
+,Spain,Basque,2013,Feb,,,,,,,,,2013
+,Spain,Basque,2013,Mar,,,,,,,,,2013
+,Spain,Basque,2013,Apr,,,,,,,,,2013
+,Spain,Basque,2013,May,,,,,,,,,2013
+,Spain,Basque,2013,Jun,,,,,,,,,2013
+,Spain,Basque,2013,Jul,,,,,,,,,2013
+,Spain,Basque,2013,Aug,,,,,,,,,2013
+,Spain,Basque,2013,Sep,,,,,,,,,2013
+,Spain,Basque,2013,Oct,,,,,,,,,2013
+,Spain,Basque,2013,Nov,,,,,,,,,2013
+,Spain,Basque,2013,Dec,,,,,,,,,2013
+,Spain,Basque,2014,Jan,,,,,,,,,2014
+,Spain,Basque,2014,Feb,,,,,,,,,2014
+,Spain,Basque,2014,Mar,,,,,,,,,2014
+,Spain,Basque,2014,Apr,,,,,,,,,2014
+,Spain,Basque,2014,May,,,,,,,,,2014
+,Spain,Basque,2014,Jun,,,,,,,,,2014
+,Spain,Basque,2014,Jul,,,,,,,,,2014
+,Spain,Basque,2014,Aug,,,,,,,,,2014
+,Spain,Basque,2014,Sep,,,,,,,,,2014
+,Spain,Basque,2014,Oct,,,,,,,,,2014
+,Spain,Basque,2014,Nov,,,,,,,,,2014
+,Spain,Basque,2014,Dec,,,,,,,,,2014
+,Spain,Basque,2015,Jan,,,,,,,,,2015
+,Spain,Basque,2015,Feb,,,,,,,,,2015
+,Spain,Basque,2015,Mar,,,,,,,,,2015
+,Spain,Basque,2015,Apr,,,,,,,,,2015
+,Spain,Basque,2015,May,,,,,,,,,2015
+,Spain,Basque,2015,Jun,,,,,,,,,2015
+,Spain,Basque,2015,Jul,,,,,,,,,2015
+,Spain,Basque,2015,Aug,,,,,,,,,2015
+,Spain,Basque,2015,Sep,,,,,,,,,2015
+,Spain,Basque,2015,Oct,,,,,,,,,2015
+,Spain,Basque,2015,Nov,,,,,,,,,2015
+,Spain,Basque,2015,Dec,,,,,,,,,2015
+,Spain,Basque,2016,Jan,,,,,,,,,2016
+,Spain,Basque,2016,Feb,,,,,,,,,2016
+,Spain,Basque,2016,Mar,,,,,,,,,2016
+,Spain,Basque,2016,Apr,,,,,,,,,2016
+,Spain,Basque,2016,May,,,,,,,,,2016
+,Spain,Basque,2016,Jun,,,,,,,,,2016
+,Spain,Basque,2016,Jul,,,,,,,,,2016
+,Spain,Basque,2016,Aug,,,,,,,,,2016
+,Spain,Basque,2016,Sep,,,,,,,,,2016
+,Spain,Basque,2016,Oct,,,,,,,,,2016
+,Spain,Basque,2016,Nov,,,,,,,,,2016
+,Spain,Basque,2016,Dec,,,,,,,,,2016
+,Spain,Basque,2017,Jan,,,,,,,,,2017
+,Spain,Basque,2017,Feb,,,,,,,,,2017
+,Spain,Basque,2017,Mar,,,,,,,,,2017
+,Spain,Basque,2017,Apr,,,,,,,,,2017
+,Spain,Basque,2017,May,,,,,,,,,2017
+,Spain,Basque,2017,Jun,,,,,,,,,2017
+,Spain,Basque,2017,Jul,,,,,,,,,2017
+,Spain,Basque,2017,Aug,,,,,,,,,2017
+,Spain,Basque,2017,Sep,,,,,,,,,2017
+,Spain,Basque,2017,Oct,,,,,,,,,2017
+,Spain,Basque,2017,Nov,,,,,,,,,2017
+,Spain,Basque,2017,Dec,,,,,,,,,2017
+,United Kingdom,Scotland,2000,Feb,0,0,0,1,0,,,35.7,2000
+,United Kingdom,Scotland,2000,Mar,0,0,0,1,0,,,35.7,2000
+,United Kingdom,Scotland,2000,Apr,0,1,1,1,0,,,35.7,2000
+,United Kingdom,Scotland,2000,May,0,0,0,1,0,,,35.7,2000
+,United Kingdom,Scotland,2000,Jun,0,0,0,1,0,,,35.7,2000
+,United Kingdom,Scotland,2000,Jul,0,0,0,1,0,,,35.7,2000
+,United Kingdom,Scotland,2000,Aug,0,0,0,1,0,,,35.7,2000
+,United Kingdom,Scotland,2000,Sep,0,0,0,1,0,,,35.7,2000
+,United Kingdom,Scotland,2000,Oct,0,0,0,1,0,,,35.7,2000
+,United Kingdom,Scotland,2000,Nov,0,1,1,1,0,,,35.7,2000
+,United Kingdom,Scotland,2000,Dec,0,0,0,1,0,,,35.7,2000
+,United Kingdom,Scotland,2001,Jan,0,0,0,1,0,,,38.4,2001
+,United Kingdom,Scotland,2001,Feb,0,0,0,1,0,,,38.4,2001
+,United Kingdom,Scotland,2001,Mar,0,1,1,1,0,,,38.4,2001
+,United Kingdom,Scotland,2001,Apr,0,0,0,1,0,,,38.4,2001
+,United Kingdom,Scotland,2001,May,0,0,0,1,0,,,38.4,2001
+,United Kingdom,Scotland,2001,Jun,0,0,0,1,0,,,38.4,2001
+,United Kingdom,Scotland,2001,Jul,0,0,0,1,0,,,38.4,2001
+,United Kingdom,Scotland,2001,Aug,0,0,0,1,0,,,38.4,2001
+,United Kingdom,Scotland,2001,Sep,0,1,1,1,0,,,38.4,2001
+,United Kingdom,Scotland,2001,Oct,0,0,0,1,0,,,38.4,2001
+,United Kingdom,Scotland,2001,Nov,0,0,0,1,0,,,38.4,2001
+,United Kingdom,Scotland,2001,Dec,0,1,1,1,0,,,38.4,2001
+,United Kingdom,Scotland,2002,Jan,0,0,0,1,0,,,41.3,2002
+,United Kingdom,Scotland,2002,Feb,0,0,0,1,0,,,41.3,2002
+,United Kingdom,Scotland,2002,Mar,0,0,0,1,0,,,41.3,2002
+,United Kingdom,Scotland,2002,Apr,0,0,0,1,0,,,41.3,2002
+,United Kingdom,Scotland,2002,May,0,0,0,1,0,,,41.3,2002
+,United Kingdom,Scotland,2002,Jun,0,1,1,1,0,,,41.3,2002
+,United Kingdom,Scotland,2002,Jul,0,0,0,1,0,,,41.3,2002
+,United Kingdom,Scotland,2002,Aug,0,0,0,1,0,,,41.3,2002
+,United Kingdom,Scotland,2002,Sep,1,0,1,1,0,,,41.3,2002
+,United Kingdom,Scotland,2002,Oct,1,0,1,1,0,,,41.3,2002
+,United Kingdom,Scotland,2002,Nov,0,0,0,1,0,,,41.3,2002
+,United Kingdom,Scotland,2002,Dec,0,0,0,1,0,,,41.3,2002
+,United Kingdom,Scotland,2003,Jan,0,1,1,1,0,,,44.9,2003
+,United Kingdom,Scotland,2003,Feb,0,0,0,1,0,,,44.9,2003
+,United Kingdom,Scotland,2003,Mar,0,0,0,1,0,,,44.9,2003
+,United Kingdom,Scotland,2003,Apr,0,0,0,1,0,,,44.9,2003
+,United Kingdom,Scotland,2003,May,0,0,0,1,0,,,44.9,2003
+,United Kingdom,Scotland,2003,Jun,0,0,0,1,0,,,44.9,2003
+,United Kingdom,Scotland,2003,Jul,0,0,0,1,0,,,44.9,2003
+,United Kingdom,Scotland,2003,Aug,0,0,0,1,0,,,44.9,2003
+,United Kingdom,Scotland,2003,Sep,0,4,4,1,0,,,44.9,2003
+,United Kingdom,Scotland,2003,Oct,0,0,0,1,0,,,44.9,2003
+,United Kingdom,Scotland,2003,Nov,0,2,2,1,0,,,44.9,2003
+,United Kingdom,Scotland,2003,Dec,4,0,4,1,0,,,44.9,2003
+,United Kingdom,Scotland,2004,Jan,0,0,0,1,0,,,48.2,2004
+,United Kingdom,Scotland,2004,Feb,0,0,0,1,0,,,48.2,2004
+,United Kingdom,Scotland,2004,Mar,0,0,0,1,0,,,48.2,2004
+,United Kingdom,Scotland,2004,Apr,0,1,1,1,0,,,48.2,2004
+,United Kingdom,Scotland,2004,May,0,0,0,1,0,,,48.2,2004
+,United Kingdom,Scotland,2004,Jun,0,1,1,1,0,,,48.2,2004
+,United Kingdom,Scotland,2004,Jul,0,0,0,1,0,,,48.2,2004
+,United Kingdom,Scotland,2004,Aug,0,0,0,1,0,,,48.2,2004
+,United Kingdom,Scotland,2004,Sep,0,0,0,1,0,,,48.2,2004
+,United Kingdom,Scotland,2004,Oct,0,0,0,1,0,,,48.2,2004
+,United Kingdom,Scotland,2004,Nov,1,1,2,1,0,,,48.2,2004
+,United Kingdom,Scotland,2004,Dec,0,0,0,1,0,,,48.2,2004
+,United Kingdom,Scotland,2005,Jan,0,0,0,1,0,,,51.4,2005
+,United Kingdom,Scotland,2005,Feb,0,0,0,1,0,,,51.4,2005
+,United Kingdom,Scotland,2005,Mar,1,0,1,1,0,,,51.4,2005
+,United Kingdom,Scotland,2005,Apr,0,0,0,1,0,,,51.4,2005
+,United Kingdom,Scotland,2005,May,0,1,1,1,0,,,51.4,2005
+,United Kingdom,Scotland,2005,Jun,0,1,1,1,0,,,51.4,2005
+,United Kingdom,Scotland,2005,Jul,0,0,0,1,0,,,51.4,2005
+,United Kingdom,Scotland,2005,Aug,0,0,0,1,0,,,51.4,2005
+,United Kingdom,Scotland,2005,Sep,0,0,0,1,0,,,51.4,2005
+,United Kingdom,Scotland,2005,Oct,0,0,0,1,0,,,51.4,2005
+,United Kingdom,Scotland,2005,Nov,0,0,0,1,0,,,51.4,2005
+,United Kingdom,Scotland,2005,Dec,0,0,0,1,0,,,51.4,2005
+,United Kingdom,Scotland,2006,Jan,0,0,0,1,0,,,54.3,2006
+,United Kingdom,Scotland,2006,Feb,0,0,0,1,0,,,54.3,2006
+,United Kingdom,Scotland,2006,Mar,0,0,0,1,0,,,54.3,2006
+,United Kingdom,Scotland,2006,Apr,0,0,0,1,0,,,54.3,2006
+,United Kingdom,Scotland,2006,May,0,1,1,1,0,,,54.3,2006
+,United Kingdom,Scotland,2006,Jun,0,1,1,1,0,,,54.3,2006
+,United Kingdom,Scotland,2006,Jul,0,0,0,1,0,,,54.3,2006
+,United Kingdom,Scotland,2006,Aug,0,0,0,1,0,,,54.3,2006
+,United Kingdom,Scotland,2006,Sep,0,0,0,1,0,,,54.3,2006
+,United Kingdom,Scotland,2006,Oct,0,0,0,1,0,,,54.3,2006
+,United Kingdom,Scotland,2006,Nov,0,0,0,1,0,,,54.3,2006
+,United Kingdom,Scotland,2006,Dec,0,0,0,1,0,,,54.3,2006
+,United Kingdom,Scotland,2007,Jan,0,0,0,1,0,,,57.9,2007
+,United Kingdom,Scotland,2007,Feb,0,0,0,1,0,,,57.9,2007
+,United Kingdom,Scotland,2007,Mar,0,2,2,1,0,,,57.9,2007
+,United Kingdom,Scotland,2007,Apr,0,0,0,1,0,,,57.9,2007
+,United Kingdom,Scotland,2007,May,0,0,0,1,0,,,57.9,2007
+,United Kingdom,Scotland,2007,Jun,0,0,0,1,0,,,57.9,2007
+,United Kingdom,Scotland,2007,Jul,0,0,0,1,0,,,57.9,2007
+,United Kingdom,Scotland,2007,Aug,0,0,0,1,0,,,57.9,2007
+,United Kingdom,Scotland,2007,Sep,0,0,0,1,0,,,57.9,2007
+,United Kingdom,Scotland,2007,Oct,0,0,0,1,0,,,57.9,2007
+,United Kingdom,Scotland,2007,Nov,0,0,0,1,0,,,57.9,2007
+,United Kingdom,Scotland,2007,Dec,0,1,1,1,0,,,57.9,2007
+,United Kingdom,Scotland,2008,Jan,0,0,0,1,0,,,61.2,2008
+,United Kingdom,Scotland,2008,Feb,0,0,0,1,0,,,61.2,2008
+,United Kingdom,Scotland,2008,Mar,0,0,0,1,0,,,61.2,2008
+,United Kingdom,Scotland,2008,Apr,1,0,1,1,0,,,61.2,2008
+,United Kingdom,Scotland,2008,May,2,5,7,1,0,,,61.2,2008
+,United Kingdom,Scotland,2008,Jun,0,0,0,1,0,,,61.2,2008
+,United Kingdom,Scotland,2008,Jul,0,0,0,1,0,,,61.2,2008
+,United Kingdom,Scotland,2008,Aug,0,0,0,1,0,,,61.2,2008
+,United Kingdom,Scotland,2008,Sep,0,0,0,1,0,,,61.2,2008
+,United Kingdom,Scotland,2008,Oct,0,0,0,1,0,,,61.2,2008
+,United Kingdom,Scotland,2008,Nov,0,0,0,1,0,,,61.2,2008
+,United Kingdom,Scotland,2008,Dec,0,1,1,1,0,,,61.2,2008
+,United Kingdom,Scotland,2009,Jan,0,2,2,1,0,,,63.6,2009
+,United Kingdom,Scotland,2009,Feb,1,0,1,1,0,,,63.6,2009
+,United Kingdom,Scotland,2009,Mar,0,1,1,1,0,,,63.6,2009
+,United Kingdom,Scotland,2009,Apr,0,0,0,1,0,,,63.6,2009
+,United Kingdom,Scotland,2009,May,0,0,0,1,0,,,63.6,2009
+,United Kingdom,Scotland,2009,Jun,0,0,0,1,0,,,63.6,2009
+,United Kingdom,Scotland,2009,Jul,0,0,0,1,0,,,63.6,2009
+,United Kingdom,Scotland,2009,Aug,0,0,0,1,0,,,63.6,2009
+,United Kingdom,Scotland,2009,Sep,0,0,0,1,0,,,63.6,2009
+,United Kingdom,Scotland,2009,Oct,0,0,0,1,0,,,63.6,2009
+,United Kingdom,Scotland,2009,Nov,0,0,0,1,0,,,63.6,2009
+,United Kingdom,Scotland,2009,Dec,0,1,1,1,0,,,63.6,2009
+,United Kingdom,Scotland,2010,Jan,0,3,3,1,0,,,66,2010
+,United Kingdom,Scotland,2010,Feb,0,1,1,1,0,,,66,2010
+,United Kingdom,Scotland,2010,Mar,0,1,1,1,0,,,66,2010
+,United Kingdom,Scotland,2010,Apr,0,0,0,1,0,,,66,2010
+,United Kingdom,Scotland,2010,May,0,3,3,1,0,,,66,2010
+,United Kingdom,Scotland,2010,Jun,0,0,0,1,0,,,66,2010
+,United Kingdom,Scotland,2010,Jul,0,0,0,1,0,,,66,2010
+,United Kingdom,Scotland,2010,Aug,0,0,0,1,0,,,66,2010
+,United Kingdom,Scotland,2010,Sep,0,3,3,1,0,,,66,2010
+,United Kingdom,Scotland,2010,Oct,0,0,0,1,0,,,66,2010
+,United Kingdom,Scotland,2010,Nov,0,0,0,1,0,,,66,2010
+,United Kingdom,Scotland,2010,Dec,0,4,4,1,0,,,66,2010
+,United Kingdom,Scotland,2011,Jan,1,3,4,1,0,,,66.3,2011
+,United Kingdom,Scotland,2011,Feb,0,0,0,1,0,,,66.3,2011
+,United Kingdom,Scotland,2011,Mar,1,0,1,1,0,,,66.3,2011
+,United Kingdom,Scotland,2011,Apr,0,0,0,1,0,,,66.3,2011
+,United Kingdom,Scotland,2011,May,0,0,0,1,0,,,66.3,2011
+,United Kingdom,Scotland,2011,Jun,0,1,1,1,0,,,66.3,2011
+,United Kingdom,Scotland,2011,Jul,0,0,0,1,0,,,66.3,2011
+,United Kingdom,Scotland,2011,Aug,0,0,0,1,0,,,66.3,2011
+,United Kingdom,Scotland,2011,Sep,0,0,0,1,0,,,66.3,2011
+,United Kingdom,Scotland,2011,Oct,0,0,0,1,0,,,66.3,2011
+,United Kingdom,Scotland,2011,Nov,0,1,1,1,0,,,66.3,2011
+,United Kingdom,Scotland,2011,Dec,3,3,6,1,0,,,66.3,2011
+,United Kingdom,Scotland,2012,Jan,1,14,15,1,0,,,68,2012
+,United Kingdom,Scotland,2012,Feb,0,0,0,1,0,,,68,2012
+,United Kingdom,Scotland,2012,Mar,1,1,2,1,0,,,68,2012
+,United Kingdom,Scotland,2012,Apr,0,2,2,1,0,,,68,2012
+,United Kingdom,Scotland,2012,May,0,0,0,1,0,,,68,2012
+,United Kingdom,Scotland,2012,Jun,0,0,0,1,0,,,68,2012
+,United Kingdom,Scotland,2012,Jul,0,0,0,1,0,,,68,2012
+,United Kingdom,Scotland,2012,Aug,0,0,0,1,0,,,68,2012
+,United Kingdom,Scotland,2012,Sep,0,0,0,1,0,,,68,2012
+,United Kingdom,Scotland,2012,Oct,0,2,2,1,0,,,68,2012
+,United Kingdom,Scotland,2012,Nov,0,0,0,1,0,,,68,2012
+,United Kingdom,Scotland,2012,Dec,1,0,1,1,0,,,68,2012
+,United Kingdom,Scotland,2013,Jan,1,0,1,1,0,,,67.5,2013
+,United Kingdom,Scotland,2013,Feb,0,0,0,1,0,,,67.5,2013
+,United Kingdom,Scotland,2013,Mar,0,4,4,1,0,,,67.5,2013
+,United Kingdom,Scotland,2013,Apr,0,0,0,1,0,,,67.5,2013
+,United Kingdom,Scotland,2013,May,1,0,1,1,0,,,67.5,2013
+,United Kingdom,Scotland,2013,Jun,0,0,0,1,0,,,67.5,2013
+,United Kingdom,Scotland,2013,Jul,0,0,0,1,0,,,67.5,2013
+,United Kingdom,Scotland,2013,Aug,0,0,0,1,0,,,67.5,2013
+,United Kingdom,Scotland,2013,Sep,1,1,2,1,0,,,67.5,2013
+,United Kingdom,Scotland,2013,Oct,0,0,0,1,0,,,67.5,2013
+,United Kingdom,Scotland,2013,Nov,1,2,3,1,0,,,67.5,2013
+,United Kingdom,Scotland,2013,Dec,0,1,1,1,0,,,67.5,2013
+,United Kingdom,Scotland,2014,Jan,2,3,5,1,0,,,68.4,2014
+,United Kingdom,Scotland,2014,Feb,1,7,8,1,0,,,68.4,2014
+,United Kingdom,Scotland,2014,Mar,0,1,1,1,0,,,68.4,2014
+,United Kingdom,Scotland,2014,Apr,0,4,4,1,0,,,68.4,2014
+,United Kingdom,Scotland,2014,May,0,5,5,1,0,,,68.4,2014
+,United Kingdom,Scotland,2014,Jun,4,6,10,1,0,,,68.4,2014
+,United Kingdom,Scotland,2014,Jul,0,0,0,1,0,,,68.4,2014
+,United Kingdom,Scotland,2014,Aug,0,2,2,1,0,,,68.4,2014
+,United Kingdom,Scotland,2014,Sep,0,5,5,1,1,,,68.4,2014
+,United Kingdom,Scotland,2014,Oct,0,0,0,1,0,,,68.4,2014
+,United Kingdom,Scotland,2014,Nov,0,1,1,1,0,,,68.4,2014
+,United Kingdom,Scotland,2014,Dec,0,1,1,1,0,,,68.4,2014
+,United Kingdom,Scotland,2015,Jan,0,2,2,1,0,,,69,2015
+,United Kingdom,Scotland,2015,Feb,0,0,0,1,0,,,69,2015
+,United Kingdom,Scotland,2015,Mar,0,1,1,1,0,,,69,2015
+,United Kingdom,Scotland,2015,Apr,0,5,5,1,0,,,69,2015
+,United Kingdom,Scotland,2015,May,3,3,6,1,0,,,69,2015
+,United Kingdom,Scotland,2015,Jun,0,2,2,1,0,,,69,2015
+,United Kingdom,Scotland,2015,Jul,0,0,0,1,0,,,69,2015
+,United Kingdom,Scotland,2015,Aug,0,0,0,1,0,,,69,2015
+,United Kingdom,Scotland,2015,Sep,1,0,1,1,0,,,69,2015
+,United Kingdom,Scotland,2015,Oct,0,3,3,1,0,,,69,2015
+,United Kingdom,Scotland,2015,Nov,0,1,1,1,0,,,69,2015
+,United Kingdom,Scotland,2015,Dec,1,1,2,1,0,,,69,2015
+,United Kingdom,Scotland,2016,Jan,0,0,0,1,0,,,71.2,2016
+,United Kingdom,Scotland,2016,Feb,0,1,1,1,0,,,71.2,2016
+,United Kingdom,Scotland,2016,Mar,0,0,0,1,0,,,71.2,2016
+,United Kingdom,Scotland,2016,Apr,0,0,0,1,0,,,71.2,2016
+,United Kingdom,Scotland,2016,May,0,0,0,1,0,,,71.2,2016
+,United Kingdom,Scotland,2016,Jun,0,1,1,1,0,,,71.2,2016
+,United Kingdom,Scotland,2016,Jul,0,0,0,1,0,,,71.2,2016
+,United Kingdom,Scotland,2016,Aug,0,0,0,1,0,,,71.2,2016
+,United Kingdom,Scotland,2016,Sep,0,0,0,1,0,,,71.2,2016
+,United Kingdom,Scotland,2016,Oct,0,0,0,1,0,,,71.2,2016
+,United Kingdom,Scotland,2016,Nov,0,2,2,1,0,,,71.2,2016
+,United Kingdom,Scotland,2016,Dec,0,0,0,1,0,,,71.2,2016
+,United Kingdom,Scotland,2017,Jan,0,0,0,1,0,,,,2017
+,United Kingdom,Scotland,2017,Feb,0,2,2,1,0,,,,2017
+,United Kingdom,Scotland,2017,Mar,11,6,17,1,0,,,,2017
+,United Kingdom,Scotland,2017,Apr,0,0,0,1,0,,,,2017
+,United Kingdom,Scotland,2017,May,0,0,0,1,0,,,,2017
+,United Kingdom,Scotland,2017,Jun,1,1,2,1,0,,,,2017
+,United Kingdom,Scotland,2017,Jul,0,0,0,1,0,,,,2017
+,United Kingdom,Scotland,2017,Aug,0,0,0,1,0,,,,2017
+,United Kingdom,Scotland,2017,Sep,0,3,3,1,0,,,,2017
+,United Kingdom,Scotland,2017,Oct,1,0,1,1,0,,,,2017
+,United Kingdom,Scotland,2017,Nov,0,0,0,1,0,,,,2017
+,United Kingdom,Scotland,2017,Dec,0,4,4,1,0,,,,2017
